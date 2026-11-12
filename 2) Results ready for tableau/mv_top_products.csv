@@ -1,0 +1,453 @@
+productid,productname,categoryname,total_revenue,total_units_sold
+345,Bread - Calabrese Baguette,Dairy,18868840.18,197257
+98,Shrimp - 31/40,Cereals,18721948.19,193234
+392,Puree - Passion Fruit,Beverages,18703480.58,194957
+104,Tia Maria,Beverages,18685125.46,196210
+149,Zucchini - Yellow,Snails,18551658.32,194209
+268,Vanilla Beans,Poultry,18530395.64,195273
+248,Beef - Inside Round,Meat,18334982.76,190684
+201,Grenadine,Grain,18331170.17,196031
+32,Lettuce - Treviso,Cereals,18321890.83,195942
+298,Pop Shoppe Cream Soda,Dairy,18241372.29,196352
+328,Tuna - Salad Premix,Seafood,18215956.03,193904
+413,Ice Cream Bar - Oreo Cone,Cereals,18176401.73,196363
+144,"Placemat - Scallop, White",Beverages,18100318.82,194764
+199,Pork - Hock And Feet Attached,Snails,18087034.58,194860
+217,Bread - Multigrain,Grain,18018372.77,192691
+256,Soup Knorr Chili With Beans,Seafood,18000425.27,193949
+10,Scampi Tail,Dairy,17993745.30,194934
+351,Hot Chocolate - Individual,Confections,17942660.53,192497
+151,"Mushrooms - Black, Dried",Meat,17728219.68,195456
+284,Beer - Rickards Red,Poultry,17714848.07,195482
+347,Pail For Lid 1537,Grain,17710186.51,192868
+223,Pail With Metal Handle 16l White,Confections,17681318.21,192950
+315,Wine - Gato Negro Cabernet,Seafood,17596839.14,193301
+226,"Chestnuts - Whole,canned",Snails,17576981.18,196753
+80,Wasabi Powder,Shell fish,17573932.60,192698
+159,Eggplant - Asian,Meat,17518974.80,195991
+451,Soup - Campbells Tomato Ravioli,Confections,17517581.22,192957
+418,Truffle Cups - Brown,Shell fish,17454953.61,195061
+244,Beef - Rib Eye Aaa,Shell fish,17454727.93,191175
+53,Cassis,Grain,17407425.18,193408
+279,Beef - Texas Style Burger,Confections,17354419.53,196250
+175,Oil - Safflower,Confections,17328932.06,194596
+395,Juice - Lime,Confections,17315480.64,194480
+88,Remy Red,Shell fish,17200206.30,192714
+84,Peas - Frozen,Confections,17180064.02,196000
+378,Bread Foccacia Whole,Poultry,17147441.70,194642
+2,Cookie Chocolate Chip With,Cereals,17128629.52,193683
+215,"Veal - Brisket, Provimi,bnls",Meat,17013405.92,194668
+8,Halibut - Steaks,Beverages,17002187.24,195075
+305,Pastry - Cheese Baked Scones,Grain,16994902.07,192346
+341,"Bread - Roll, Canadian Dinner",Confections,16972709.59,193767
+324,Apricots - Dried,Snails,16890401.41,198032
+24,"Beer - Alexander Kieths, Pale Ale",Cereals,16854960.73,195188
+406,"Shrimp - Baby, Warm Water",Poultry,16833216.54,193293
+308,Tea - Decaf Lipton,Seafood,16829522.38,196983
+443,Lettuce - Spring Mix,Shell fish,16820377.07,192712
+379,Smoked Paprika,Meat,16641297.74,191953
+369,Rambutan,Beverages,16632719.42,196793
+274,Papayas,Shell fish,16521583.66,192979
+81,Cookies - Assorted,Shell fish,16367654.05,194856
+69,Raspberries - Fresh,Confections,16348052.19,192358
+380,Wine - White Cab Sauv.on,Dairy,16345653.43,195930
+419,Pork - Belly Fresh,Cereals,16342306.44,195668
+85,Cheese - Parmesan Cubes,Meat,16331092.99,193601
+20,Chocolate - Feathers,Cereals,16290653.94,195647
+179,Yoghurt Tubes,Seafood,16270007.24,199724
+424,Vinegar - Tarragon,Cereals,16239406.44,194971
+349,Puree - Mocha,Dairy,16229662.65,192522
+358,"Cheese - Boursin, Garlic / Herbs",Poultry,16220644.38,197578
+236,Tomato - Tricolor Cherry,Confections,16210460.81,194780
+46,Lambcasing,Poultry,16192066.44,192461
+218,Barramundi,Grain,16187421.02,195859
+416,Baking Powder,Snails,16158779.21,196840
+68,"Beets - Candy Cane, Organic",Seafood,15970732.79,193929
+137,"Wine - White, Schroder And Schyl",Snails,15966984.11,195760
+337,Bread - Rye,Cereals,15827972.31,195496
+257,"Pasta - Detalini, White, Fresh",Produce,15809462.40,193082
+350,Isomalt,Grain,15804163.78,196760
+437,Chips Potato All Dressed - 43g,Snails,15797561.41,195009
+375,Snapple Lemon Tea,Grain,15797387.89,195718
+414,Sauerkraut,Meat,15765886.61,195273
+312,Salmon - Sockeye Raw,Confections,15757964.71,193259
+426,Scallops - Live In Shell,Cereals,15721537.97,193952
+9,Rabbit - Whole,Produce,15706097.92,191792
+230,"Wine - Cahors Ac 2000, Clos",Produce,15619312.06,192838
+101,"Soup - Campbells, Lentil",Dairy,15553045.05,193026
+371,Creme De Banane - Marie,Grain,15530411.06,194278
+186,Muffin Mix - Blueberry,Grain,15488026.87,194325
+297,Hinge W Undercut,Cereals,15483499.51,194916
+112,Browning Caramel Glace,Snails,15430146.96,194540
+221,Bread Crumbs - Panko,Cereals,15429546.13,194085
+210,"Cheese - Brie,danish",Cereals,15387702.58,192884
+38,Sage - Ground,Seafood,15359426.92,193962
+176,Smirnoff Green Apple Twist,Seafood,15315283.61,194142
+42,Bread - Raisin Walnut Oval,Confections,15286484.67,194415
+51,Wine - Crozes Hermitage E.,Produce,15234813.71,193729
+41,"Cup - 6oz, Foam",Meat,15203622.26,191828
+366,Tahini Paste,Dairy,15170566.90,194396
+25,Soupcontfoam16oz 116con,Snails,15140504.62,193166
+294,Wine - Alsace Gewurztraminer,Snails,15114191.56,193086
+6,Wine - Magnotta - Cab Sauv,Grain,15112870.30,195449
+310,Coffee - Dark Roast,Poultry,15083351.93,194311
+299,Fuji Apples,Dairy,14989949.79,192803
+45,Beef - Ground Medium,Dairy,14988190.39,194283
+114,Veal - Osso Bucco,Grain,14926489.11,193441
+319,Towels - Paper / Kraft,Meat,14914787.87,198005
+23,Crab - Imitation Flakes,Produce,14893560.65,194438
+37,"Nut - Pistachio, Shelled",Meat,14842222.74,190465
+108,Pasta - Orecchiette,Confections,14837808.24,193706
+288,"Orange - Canned, Mandarin",Produce,14823668.75,193788
+202,Bay Leaf,Produce,14808858.82,193501
+204,Scallop - St. Jaques,Poultry,14804660.62,196124
+167,Knife Plastic - White,Produce,14775839.02,193279
+254,"Soup - Canadian Pea, Dry Mix",Confections,14706989.55,195051
+206,Cocoa Butter,Cereals,14661531.09,194736
+273,Bandage - Flexible Neon,Dairy,14648321.20,194464
+188,Cup - Translucent 7 Oz Clear,Grain,14616943.59,192798
+448,Gatorade - Xfactor Berry,Beverages,14555459.68,195001
+228,Sauce - Hollandaise,Cereals,14533388.07,192648
+249,Cookie Dough - Double,Snails,14468357.30,194642
+253,Wanton Wrap,Meat,14464573.16,195638
+39,Dried Figs,Produce,14446429.30,198032
+189,"Bread - Roll, Soft White Round",Beverages,14369478.70,194188
+377,"Wine - Red, Cooking",Confections,14336955.62,197020
+402,Butter - Unsalted,Beverages,14280516.66,192806
+146,Bananas,Meat,14166280.74,193995
+71,Cheese - Wine,Seafood,14046451.41,194550
+59,Pastry - Butterscotch Baked,Snails,14000095.76,196081
+103,Cream Of Tartar,Meat,13987401.90,198126
+442,Wine - Ej Gallo Sierra Valley,Seafood,13920992.82,196728
+1,Flour - Whole Wheat,Cereals,13784693.63,191235
+31,Yeast Dry - Fermipan,Shell fish,13773333.84,191891
+303,Cod - Black Whole Fillet,Meat,13750225.47,195146
+304,Banana Turning,Beverages,13721970.83,195923
+271,Banana - Leaves,Beverages,13686065.72,192170
+234,Tofu - Firm,Confections,13682326.47,193709
+320,Yogurt - French Vanilla,Poultry,13654516.06,191615
+285,Cheese - Mix,Meat,13601789.60,195100
+441,Blackberries,Cereals,13578394.01,191938
+336,Broom - Corn,Shell fish,13516918.37,193809
+153,Arizona - Green Tea,Dairy,13415034.77,197002
+213,Pate - Cognac,Snails,13311125.60,194491
+420,Whmis - Spray Bottle Trigger,Poultry,13299060.19,195842
+240,Wine - Chablis 2003 Champs,Dairy,13291780.67,193428
+407,"Pepsi - Diet, 355 Ml",Meat,13287698.67,196327
+156,Sprouts - Alfalfa,Confections,13263638.32,191910
+36,Table Cloth 54x72 White,Poultry,13259829.32,197671
+90,Flavouring - Orange,Poultry,13251294.33,197003
+434,Cookie - Dough Variety,Meat,13228815.60,191762
+168,Milk - 2%,Seafood,13187253.25,192104
+342,Mangoes,Confections,13155776.05,194990
+100,"Pork - Loin, Bone - In",Poultry,13138362.17,194555
+359,Rice - Long Grain,Produce,13101959.74,195656
+105,Ecolab - Mikroklene 4/4 L,Confections,13094153.03,196011
+266,Clam Nectar,Meat,13068606.38,197759
+177,"Coconut - Shredded, Sweet",Cereals,13041200.43,194293
+300,"Beans - Kidney, Canned",Beverages,13026436.34,192939
+169,Water - Aquafina Vitamin,Snails,13025485.83,195864
+117,Ketchup - Tomato,Produce,13008761.69,195628
+408,Blueberries,Dairy,12987439.66,194690
+231,Crush - Cream Soda,Beverages,12949729.27,195437
+331,Cookies Cereal Nut,Cereals,12883685.28,197343
+436,Table Cloth 81x81 White,Meat,12861886.04,195341
+140,"Oregano - Dry, Rubbed",Produce,12845689.62,194241
+30,"Cheese - Brie, Triple Creme",Seafood,12835259.07,195047
+272,"Chocolate - Semi Sweet, Calets",Shell fish,12817927.31,194025
+241,Cheese - Cheddarsliced,Poultry,12816031.62,194633
+259,Veal - Eye Of Round,Meat,12781214.49,195509
+129,Chicken - Soup Base,Meat,12640981.04,193826
+403,Liners - Baking Cups,Beverages,12588910.00,190370
+194,Lettuce - Frisee,Seafood,12556946.00,193856
+316,Cheese - Victor Et Berthold,Produce,12526269.64,195765
+161,Longos - Chicken Wings,Snails,12508594.42,199679
+118,Garbag Bags - Black,Poultry,12427760.79,194115
+76,Wine - Fume Blanc Fetzer,Seafood,12404763.57,194777
+237,Mayonnaise - Individual Pkg,Grain,12383186.65,194539
+5,Artichokes - Jerusalem,Shell fish,12327697.18,194129
+250,"Soup - Campbells, Beef Barley",Confections,12282295.09,196234
+181,Phyllo Dough,Confections,12240323.41,195491
+391,Bread - Bistro White,Confections,12206881.51,193425
+344,Sausage - Liver,Shell fish,12106309.97,196092
+404,Pants Custom Dry Clean,Confections,12076291.16,191346
+367,Bread - Italian Corn Meal Poly,Beverages,11992551.24,193722
+155,"Peas - Pigeon, Dry",Poultry,11963720.34,193974
+280,Onion Powder,Beverages,11881270.14,198163
+61,Sardines,Grain,11870386.65,195761
+70,Squid - Tubes / Tenticles 10/20,Dairy,11860068.24,193438
+96,Cheese - Bocconcini,Meat,11829832.44,196113
+102,"Rosemary - Primerba, Paste",Dairy,11779174.17,195162
+72,Bar - Granola Trail Mix Fruit Nut,Dairy,11708089.97,193614
+389,Pomello,Cereals,11677920.98,192733
+214,French Pastry - Mini Chocolate,Beverages,11675099.00,196577
+212,Curry Paste - Madras,Shell fish,11577863.53,193185
+302,"Doilies - 5, Paper",Produce,11561612.37,195084
+174,Guinea Fowl,Produce,11530196.79,193309
+293,Garlic - Elephant,Produce,11474597.07,194103
+332,Bouq All Italian - Primerba,Beverages,11445251.83,197614
+92,"Wine - Red, Colio Cabernet",Confections,11415061.55,195432
+48,Pecan Raisin - Tarts,Meat,11369248.70,194160
+49,Bacardi Breezer - Tropical,Grain,11365894.84,190532
+193,"Veal - Inside, Choice",Produce,11329254.85,193010
+355,Olives - Stuffed,Beverages,11270451.75,195960
+393,Olive - Spread Tapenade,Confections,11268013.95,193632
+203,"Chicken - Leg, Boneless",Confections,11254704.25,193375
+445,Pastry - Choclate Baked,Grain,11239757.91,195668
+219,Assorted Desserts,Beverages,11168920.31,195294
+247,Juice - Apple Cider,Poultry,11164643.72,195018
+152,"Lentils - Red, Dry",Meat,11139054.56,195254
+429,Beef - Short Loin,Dairy,11045191.78,197725
+229,Bread - Hot Dog Buns,Poultry,11030574.32,196010
+287,Bread - Italian Roll With Herbs,Meat,10951027.08,195617
+425,Wine - Redchard Merritt,Dairy,10913338.07,197969
+82,Jolt Cola - Electric Blue,Beverages,10812950.53,196430
+91,General Purpose Trigger,Seafood,10796896.44,195076
+233,Duck - Breast,Produce,10794427.71,196795
+439,"Beef - Chuck, Boneless",Produce,10747221.02,197584
+318,Ecolab - Solid Fusion,Snails,10657125.74,191996
+63,Cake - Mini Cheesecake,Poultry,10599907.70,194179
+282,"Lemonade - Natural, 591 Ml",Snails,10587536.18,194322
+423,"Fish - Scallops, Cold Smoked",Shell fish,10551376.76,194718
+277,Sea Bass - Whole,Poultry,10548722.33,195913
+384,Fond - Neutral,Snails,10530511.14,192070
+348,Pasta - Cheese / Spinach Bauletti,Snails,10514701.75,195485
+373,Beef - Montreal Smoked Brisket,Poultry,10513711.02,197533
+52,"Turnip - White, Organic",Confections,10444095.28,193670
+227,Cheese - Taleggio D.o.p.,Beverages,10422681.96,193959
+323,Extract - Lemon,Snails,10364615.23,196712
+16,Kellogs Special K Cereal,Shell fish,10361797.93,195214
+160,Beef Ground Medium,Meat,10302306.90,194273
+4,"Sauce - Gravy, Au Jus, Mix",Poultry,10289097.62,195232
+158,Apricots Fresh,Dairy,10187309.62,192708
+127,Island Oasis - Mango Daiquiri,Grain,10173939.85,193496
+401,"Tart Shells - Sweet, 4",Grain,10104385.49,195340
+54,"Liners - Banana, Paper",Poultry,10075391.40,193904
+362,Cumin - Whole,Meat,9957863.80,192363
+138,"Rum - Coconut, Malibu",Meat,9914725.51,194219
+178,Pernod,Snails,9821888.96,193286
+360,Wine - Hardys Bankside Shiraz,Snails,9776055.78,192941
+382,Soup - Campbells Bean Medley,Dairy,9765956.92,194207
+83,Lamb - Ground,Confections,9682867.00,196305
+343,Otomegusa Dashi Konbu,Confections,9648169.32,194359
+399,Berry Brulee,Seafood,9619409.78,194876
+422,"Garlic - Primerba, Paste",Beverages,9516922.34,194972
+263,Soupfoamcont12oz 112con,Meat,9510158.77,193137
+307,Foam Cup 6 Oz,Confections,9506238.83,194997
+275,Corn Meal,Confections,9488576.12,195092
+12,Ezy Change Mophandle,Dairy,9409008.23,196576
+147,Cheese - Mozzarella,Beverages,9402630.24,195592
+374,Jagermeister,Beverages,9375703.93,195913
+264,Juice - V8 Splash,Cereals,9364947.42,195437
+394,Rum - Mount Gay Eclipes,Cereals,9358453.07,192423
+446,Sunflower Seed Raw,Meat,9231703.98,194009
+246,Ice Cream Bar - Hageen Daz To,Poultry,9220602.35,195929
+44,"Wine - White, Colubia Cresh",Meat,9194132.40,195170
+363,Cornflakes,Produce,9167233.67,193810
+73,Appetizer - Sausage Rolls,Produce,9166580.86,195960
+276,Snapple - Iced Tea Peach,Beverages,9120450.16,190916
+109,Muffin - Zero Transfat,Confections,9095705.93,189906
+185,Foam Dinner Plate,Seafood,9082367.26,193356
+47,"Thyme - Lemon, Fresh",Poultry,9074361.34,198567
+123,Oil - Shortening - All - Purpose,Dairy,9048630.49,193696
+295,"Ice - Clear, 300 Lb For Carving",Meat,9027826.04,191014
+95,Beans - Kidney White,Confections,8863571.93,196935
+56,Chips Potato Salt Vinegar 43g,Poultry,8845772.03,196574
+21,Kiwi,Meat,8826073.53,194812
+430,Milk - 1%,Shell fish,8713996.63,194271
+427,Wine - Vineland Estate Semi - Dry,Cereals,8585340.29,190972
+115,Ocean Spray - Ruby Red,Produce,8573960.73,196050
+33,Beans - Wax,Snails,8531866.02,193161
+173,Rosemary - Dry,Grain,8424058.94,195101
+438,Juice - Orange,Shell fish,8406424.36,192949
+243,Sun - Dried Tomatoes,Seafood,8374757.51,191146
+94,V8 - Berry Blend,Poultry,8333932.37,197452
+306,"Pepper - White, Ground",Dairy,8326801.76,196980
+381,Vaccum Bag 10x13,Confections,8325223.24,194095
+444,Cheese - Cambozola,Grain,8272620.92,193348
+417,"Lamb - Pieces, Diced",Beverages,8251131.31,196346
+17,"Wine - White, Mosel Gold",Snails,8227856.79,193068
+289,Sword Pick Asst,Snails,8215563.08,194818
+301,Beer - Labatt Blue,Grain,8187624.61,194466
+50,Pork - Kidney,Meat,8150228.61,194067
+386,Sprouts - Baby Pea Tendrils,Snails,8085327.20,195046
+34,Mustard Prepared,Seafood,8066358.17,191752
+398,Wine - Wyndham Estate Bin 777,Produce,8030833.54,195650
+449,Nantuket Peach Orange,Dairy,7957372.94,194653
+143,Watercress,Confections,7946261.41,192194
+411,Durian Fruit,Seafood,7891017.89,193426
+110,Black Currants,Poultry,7850546.49,197614
+387,Fondant - Icing,Poultry,7842094.37,194140
+187,"Pepper - Black, Whole",Cereals,7831912.67,195072
+130,Beef Wellington,Shell fish,7830620.32,192390
+131,Anchovy Paste - 56 G Tube,Cereals,7732396.15,194811
+376,Pasta - Angel Hair,Produce,7723560.91,195033
+311,Wonton Wrappers,Poultry,7670548.90,196735
+150,Langers - Ruby Red Grapfruit,Poultry,7615763.67,193040
+286,Beef - Prime Rib Aaa,Shell fish,7585939.84,193144
+134,Wine - Toasted Head,Shell fish,7568352.59,195798
+313,Veal - Slab Bacon,Produce,7524293.64,194322
+190,Cake - Cake Sheet Macaroon,Poultry,7474239.12,193823
+433,"Beans - Kidney, Red Dry",Cereals,7456225.09,192810
+216,Scallops - 10/20,Confections,7444425.97,196605
+326,Appetizer - Mushroom Tart,Poultry,7426278.13,197048
+421,Soup V8 Roasted Red Pepper,Seafood,7373623.33,196065
+329,"Pork - Loin, Center Cut",Seafood,7325671.86,192036
+290,Sauce - Rosee,Confections,7279494.58,193619
+245,Grouper - Fresh,Confections,7141558.63,195244
+396,Tea - Jasmin Green,Seafood,7051328.00,196624
+89,"Beef - Ground, Extra Lean, Fresh",Cereals,6897810.77,193715
+361,Coffee Decaf Colombian,Shell fish,6850113.13,193781
+262,Bagel - Plain,Meat,6847968.84,193667
+198,Lime Cordial - Roses,Confections,6565411.68,192386
+235,Bread - English Muffin,Seafood,6562874.61,196058
+317,Water - Green Tea Refresher,Cereals,6550521.41,191599
+111,Scallops 60/80 Iqf,Produce,6545551.31,193246
+292,Turkey - Oven Roast Breast,Grain,6459764.82,192819
+145,Wine - Chardonnay South,Poultry,6452876.67,193182
+232,Quiche Assorted,Cereals,6386324.56,194104
+26,Squid U5 - Thailand,Produce,6379157.11,194619
+29,Spinach - Baby,Meat,6308762.80,193569
+209,Sugar - Fine,Cereals,6282901.21,196382
+281,"Bar Mix - Pina Colada, 355 Ml",Shell fish,6275570.85,195318
+440,Pork - Inside,Confections,6264835.20,196263
+432,Beer - Original Organic Lager,Shell fish,6200966.00,195154
+242,Thermometer Digital,Poultry,6134808.18,193534
+435,"Salsify, Organic",Grain,6100803.52,192923
+15,"Spoon - Soup, Plastic",Confections,6075328.96,193053
+60,"Pepper - Paprika, Hungarian",Shell fish,6046189.23,196743
+7,Table Cloth - 53x69 Colour,Poultry,6028320.83,195278
+296,Wine - Valpolicella Masi,Cereals,5920155.28,194498
+258,Tea - English Breakfast,Confections,5864514.01,194477
+180,Chocolate - Dark,Cereals,5842261.73,194829
+192,"Wine - Magnotta, Merlot Sr Vqa",Meat,5644330.65,196739
+78,Wine - Magnotta - Belpaese,Dairy,5640204.92,191250
+255,Kellogs All Bran Bars,Cereals,5535580.83,195196
+119,Soup Campbells - Italian Wedding,Produce,5504094.28,191423
+148,Beer - Sleemans Cream Ale,Produce,5470741.57,197583
+224,Flour - Pastry,Confections,5453705.65,194673
+338,Cheese - Camembert,Produce,5443401.94,193522
+452,Napkin White - Starched,Produce,5382482.79,194120
+13,"Water, Tap",Produce,5343862.47,195339
+238,Garlic,Seafood,5288843.13,192086
+252,Nantucket - Pomegranate Pear,Dairy,5262272.00,194997
+340,Veal - Sweetbread,Cereals,5256741.75,191993
+22,Rice - Jasmine Sented,Seafood,5241908.33,193740
+99,Mustard - Seed,Beverages,5223126.63,196066
+309,Muffin Batt - Choc Chk,Produce,5176003.99,193192
+184,Hersey Shakes,Poultry,5098397.78,197942
+269,Wine - Blue Nun Qualitatswein,Produce,5094583.37,196594
+260,"Yogurt - Blueberry, 175 Gr",Meat,5000021.69,191711
+322,Onions - Vidalia,Shell fish,4968491.49,194918
+182,Campari,Poultry,4787885.93,192980
+154,Ice Cream Bar - Drumstick,Dairy,4694078.79,195467
+142,"Pork - Bacon, Double Smoked",Seafood,4683268.63,194778
+352,"Beef - Tenderlion, Center Cut",Dairy,4678725.55,195638
+97,Veal - Inside,Dairy,4652014.77,193581
+136,Vol Au Vents,Snails,4590155.68,194091
+409,Skirt - 29 Foot,Produce,4455086.70,195359
+18,"Lamb - Whole, Fresh",Snails,4400186.36,193757
+166,Tray - 16in Rnd Blk,Beverages,4347389.45,192395
+385,"Pork - Back, Short Cut, Boneless",Snails,4299089.69,195148
+19,Tea - Earl Grey,Cereals,4202928.28,191944
+261,Chinese Foods - Chicken,Poultry,4196661.65,195787
+370,Muffin - Carrot Individual Wrap,Dairy,4178098.09,196840
+334,Ecolab - Lime - A - Way 4/4 L,Meat,4096430.92,195549
+171,Gloves - Goldtouch Disposable,Beverages,4055164.89,192966
+139,Chicken - Wieners,Confections,4043683.45,194674
+65,Brandy - Bar,Cereals,4003649.93,195541
+170,Initation Crab Meat,Confections,3889144.98,193997
+397,Juice - Happy Planet,Confections,3872698.39,191677
+333,Cheese - Cottage Cheese,Meat,3797152.55,193138
+431,Muffin Chocolate Individual Wrap,Snails,3774627.86,194590
+58,Dc Hikiage Hira Huba,Meat,3774121.99,193635
+62,Pears - Bosc,Confections,3722676.94,196588
+205,"Turkey - Whole, Fresh",Beverages,3598130.31,195443
+106,Pickerel - Fillets,Meat,3557728.61,195639
+330,Olives - Kalamata,Snails,3532140.76,193895
+368,Flour - Teff,Dairy,3472895.08,195738
+86,Longos - Grilled Chicken With,Shell fish,3464774.33,194441
+410,Fenngreek Seed,Seafood,3464554.73,194643
+335,"Oil - Shortening,liqud, Fry",Poultry,3461204.73,193637
+124,Macaroons - Two Bite Choc,Dairy,3460903.20,194981
+400,Carbonated Water - Blackcherry,Confections,3405403.58,193519
+353,Milk Powder,Grain,3396998.42,193262
+220,Meldea Green Tea Liquor,Snails,3352105.19,192514
+356,Dc - Frozen Momji,Seafood,3273668.20,196901
+346,Cheese - Parmesan Grated,Confections,3245349.56,194490
+27,Chocolate - Compound Coating,Confections,3237288.44,194447
+64,Vinegar - Sherry,Seafood,3089397.51,192798
+43,Sponge Cake Mix - Chocolate,Poultry,3061720.15,192364
+172,Sherry - Dry,Beverages,3011721.32,193914
+412,Lettuce - California Mix,Beverages,2989926.39,192097
+35,"Water - Mineral, Natural",Seafood,2953557.76,193531
+157,"Juice - Cranberry, 341 Ml",Produce,2675282.27,195431
+126,Crackers - Trio,Seafood,2648457.73,192436
+207,Coffee - Hazelnut Cream,Snails,2644679.46,190924
+265,"Mushroom - Porcini, Dry",Snails,2621817.99,193971
+74,Carbonated Water - Cherry,Meat,2570623.79,194724
+388,Table Cloth 120 Round White,Confections,2548745.67,194213
+197,Mussels - Cultivated,Confections,2487309.25,197318
+365,"Wine - Red, Harrow Estates, Cab",Meat,2423516.90,197910
+28,Sobe - Tropical Energy,Poultry,2309437.56,193488
+57,Sausage - Breakfast,Cereals,2302423.36,194261
+122,Table Cloth 62x114 White,Dairy,2217392.71,194124
+163,Tomatoes Tear Drop,Seafood,2208750.02,193480
+132,Beer - Blue,Seafood,2173615.54,192808
+251,"Oranges - Navel, 72",Beverages,2165897.58,190683
+77,Potatoes - Idaho 100 Count,Poultry,2164536.02,194167
+200,Garlic - Peeled,Beverages,2103302.98,194723
+141,Tea - Herbal Sweet Dreams,Confections,2074115.16,194976
+135,Wiberg Super Cure,Snails,2066780.52,194359
+113,Ocean Spray - Kiwi Strawberry,Meat,2005578.60,195128
+321,"Potatoes - Instant, Mashed",Confections,1982953.33,196412
+191,"Hickory Smoke, Liquid",Snails,1947691.46,195351
+225,Wine - Charddonnay Errazuriz,Cereals,1920839.47,190972
+383,Cake - Box Window 10x10x2.5,Shell fish,1855432.49,191823
+66,Pie Filling - Cherry,Meat,1841461.61,191911
+79,"Pasta - Penne, Rigate, Dry",Produce,1787311.35,193903
+3,Onions - Cippolini,Poultry,1711346.59,193059
+364,Cattail Hearts,Confections,1674359.10,195170
+40,Cocktail Napkin Blue,Grain,1651465.25,190597
+208,"Mushroom - Trumpet, Dry",Beverages,1643536.11,193984
+196,Longos - Grilled Salmon With Bbq,Confections,1546370.83,193814
+93,Bandage - Fexible 1x3,Grain,1532083.44,194492
+415,Mussels - Frozen,Snails,1514725.51,194892
+239,"Soup - Campbells, Cream Of",Beverages,1423126.46,193042
+107,Bread - French Baquette,Confections,1393367.99,193665
+164,Loquat,Produce,1388024.29,193402
+327,"Appetizer - Mini Egg Roll, Shrimp",Shell fish,1361244.81,196353
+450,Wine - Vidal Icewine Magnotta,Cereals,1347441.26,195300
+357,Tilapia - Fillets,Shell fish,1281377.11,193555
+354,Crackers Cheez It,Meat,1258686.07,193802
+55,Cinnamon Buns Sticky,Cereals,1254766.93,195309
+372,Wine - Two Oceans Cabernet,Cereals,1178717.61,193379
+11,Garbage Bags - Clear,Poultry,1168842.15,191316
+121,Muffin Batt - Blueberry Passion,Produce,1154516.76,195087
+183,Spice - Peppercorn Melange,Dairy,1154258.73,191419
+125,"Nut - Chestnuts, Whole",Poultry,1152171.07,193441
+116,Steam Pan - Half Size Deep,Cereals,1073392.59,192975
+314,Salmon Steak - Cohoe 8 Oz,Shell fish,1051860.05,193729
+267,Grapes - Red,Shell fish,966313.08,194385
+428,Wine - Ruffino Chianti,Meat,886156.96,193631
+128,Coffee - Irish Cream,Shell fish,877762.39,193345
+270,Cheese Cloth No 100,Seafood,839289.38,195660
+75,Chef Hat 20cm,Grain,790426.20,194836
+67,Wine - Sogrape Mateus Rose,Beverages,721700.67,196939
+87,Wine - Pinot Noir Latour,Meat,708819.86,192980
+195,Beets - Mini Golden,Shell fish,663688.51,194318
+447,"Salmon - Atlantic, Skin On",Cereals,646630.51,195104
+14,Beef - Top Sirloin,Meat,629425.43,194898
+325,Halibut - Fletches,Beverages,593723.55,193350
+133,Beef - Top Sirloin - Aaa,Produce,554431.06,194934
+120,Water - Spring Water 500ml,Shell fish,519893.68,196075
+162,Sauce - Demi Glace,Produce,512602.06,193021
+339,Beef - Striploin Aa,Shell fish,448339.86,193266
+211,Wine - Prosecco Valdobiaddene,Poultry,384045.77,192389
+390,"Seedlings - Mix, Organic",Cereals,243924.08,194097
+291,"Crab - Dungeness, Whole",Shell fish,234358.31,192443
+283,Bread Fig And Almond,Dairy,222824.95,193293
+222,"Sole - Dover, Whole, Fresh",Cereals,129922.24,195618
+405,Pastry - Raisin Muffin - Mini,Produce,80995.78,195006
+278,Apricots - Halves,Produce,71114.01,196533
+165,Bread Crumbs - Japanese Style,Seafood,8524.69,195920

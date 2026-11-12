@@ -1,0 +1,13 @@
+# fact_sales.csv (~485 MB, 6.7M rows) is above GitHub's 100 MB file limit.
+# Re-export it from the warehouse with psql:
+#   \copy analytics.fact_sales TO 'fact_sales.csv' CSV HEADER
+2) Results ready for tableau/fact_sales.csv
+
+# sales.csv (~500 MB, 6.7M rows) exceeds GitHub's file size limit: download it from Kaggle (see README)
+data/sales.csv
+
+# Blog drafts and images (published on the website, not part of the repository)
+blog/
+
+# Local scratch files
+.ipynb_checkpoints/
